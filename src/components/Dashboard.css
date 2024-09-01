@@ -1,0 +1,13 @@
+.dashboard-container {
+    padding: 50px;
+}
+
+.dashboard-container h1 {
+    margin-bottom: 20px;
+}
+
+.dashboard-container a {
+    display: block;
+    margin: 10px 0;
+    color: #007bff;
+}
